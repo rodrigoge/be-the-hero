@@ -15,7 +15,7 @@
 
 
 ### Projeto
-<img src="img/img1.png" width="500" height="400" />
+<img src="img/img1.png" width="600" height="400" />
 
 ### Objetivo
 O Be The Hero auxilia pessoas a encontrarem ONG's que possam ser ajudadas de forma facilitada.
